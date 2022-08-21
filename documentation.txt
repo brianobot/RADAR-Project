@@ -1,0 +1,30 @@
+RADAR (Radio detection And Ranging)
+is a detection system that uses radio waves to determine the distance (ranging), 
+angle, or velocity of objects. It can be used to detect aircraft, ships, 
+spacecraft, guided missiles,motor vehicles,weather formations,and terrain.
+A radar system consists of a transmitter producing electromagnetic waves in the 
+radio or microwaves domain, a transmitting antenna, a receiving antenna
+(often the same antenna is used for transmitting and receiving) and a receiver 
+and processor to determine properties of the object(s). Radio waves 
+(pulsed or continuous) from the transmitter reflect off the object and return  
+to the receiver, giving information about the object's location and speed.
+
+APPLICATION OF RADAR
+The modern uses of radar are highly diverse, including 
+* air and terrestrial traffic control, 
+* radar astronomy, 
+* air-defense systems, 
+* antimissile systems, 
+* marine radars to locate landmarks and other ships,
+* aircraft anti-collision systems, 
+* ocean surveillance systems, 
+* outer space surveillance and rendezvous systems,
+* meteorological precipitation monitoring, 
+* altimetry and flight control systems,
+* guided missile target locating systems, 
+** self-driving cars, and 
+* ground-penetrating radar for geological observations.
+
+* High tech radar systems are
+ associated with digital signal processing, machine learning and are capable of
+ extracting useful information from very high noise levels.
